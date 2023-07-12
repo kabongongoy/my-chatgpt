@@ -10,7 +10,7 @@ args = parser.parse_args()
 
 openai.api_key = constants.APIKEY
 
-#messages = [{'role':'system','content':'create a python script to move files from download folder to a folder called to_delete'}]
+#messages = [{'role':'system','content':'create a python script to move install wordpress on ec2 instance'}]
 
 messages = [{'role':'system','content': args.prompt}]
 
