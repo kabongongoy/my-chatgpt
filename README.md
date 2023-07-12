@@ -15,4 +15,5 @@ The result is the wordpress.py attched to this repo
 
 
 Notes:  You will need to update your API Key from OpenAI in the constants.py
+
         You will also need to import all python required modules
