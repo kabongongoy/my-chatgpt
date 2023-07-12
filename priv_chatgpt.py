@@ -14,7 +14,3 @@ index = VectorstoreIndexCreator().from_loaders([loader])
 
 
 print(index.query(query))
-
-
-
-
