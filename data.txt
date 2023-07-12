@@ -1,9 +1,9 @@
                                         Personal Details	
 
-Name:                             Henry Faleye
-Address:                          13/86 Carselgrove Avenue Fitzgibbon 4018
-Telephone:                     0438 008 086
-                                Email:                             afaleye@gmail.com                                                                                                                                                                                                                                                                                                           
+Name:                            Henry Faleye
+Address:                         Fitzgibbon , Brisbane Australia
+Telephone:                       1234 567 890
+Email:                           afaleye@gmail.com                                                                                                                                                                                                                                                                                                           
                                          Personal Characteristics
 
 Hard-working and ability to learn quickly
@@ -149,7 +149,6 @@ E-Mail mark.richards@sunsuper.com.au
 Sarah Steele
 Manager
 Avanade
-+61 7 31174540
 Email: mailto:sarahs@avanade.com
 
 
