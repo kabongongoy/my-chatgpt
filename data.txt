@@ -3,7 +3,8 @@
 Name:                            Henry Faleye
 Address:                         Fitzgibbon , Brisbane Australia
 Telephone:                       1234 567 890
-Email:                           afaleye@gmail.com                                                                                                                                                                                                                                                                                                           
+Email:                           afaleye@gmail.com    
+
                                          Personal Characteristics
 
 Hard-working and ability to learn quickly
@@ -14,7 +15,7 @@ Honest, Dedicated and Enthusiastic
 Team Player
 
 
-                                                               Qualifications
+                                          Qualifications
 
 AWS Certified Solutions Architect - Associate (SAA-C02)
 HashiCorp Certified: Terraform Associate
@@ -27,16 +28,21 @@ Microsoft Certified System Administrator (MCSA+)
 Cisco Certified Network Associate (CCNA)
 Microsoft Certified Professional
 
-                                                                  Employment History
-                        Nov 2023 – Present     Canstar   (Contract)
-                                                                     Cloud Engineer
+                                         Employment History
+
+                          Nov 2023 – Present     
+                          Canstar
+                          Cloud Engineer
+
 •	Performs deployments with CI/CD tools such as Jenkins ,BitBucket and Git
 •	Perform infrastructure deployment and changes using Terraform
 •	knowledge of DevOps, agile development, and cloud operations support processes
 •	Experience with development platforms such as Kubernetes, CloudFormation, terraform and  Docker
+
                                            
-                          Apr 2022 – Oct2022         CMD Solutions (Contract)
-                                                                                     Consultant
+                          Apr 2022 – Oct2022         
+                          CMD Solutions (Contract)
+                          Consultant
                          
 •	Work as part of  End user Deployment team
 •	Deploy Infrastructure using Terraform and cloud formation (Workspace /Appstream)
@@ -46,8 +52,10 @@ Microsoft Certified Professional
 •	Working with containers using kubernetes
 •	Automation mindset
 
-                                   Nov 2021 – mar2022         Versent     (Contract)
-                                                                                   Devops Engineer
+
+                            Nov 2021 – mar2022         
+                            Versent     (Contract)
+                            Devops Engineer
                          
 •	Work as part of a team to look after client cloud environments
 •	Work with developers to setup and configure new automated build processes
@@ -58,11 +66,10 @@ Microsoft Certified Professional
 
 
 
+                            July 2021 – Oct 2021       
+                            Sunsuper (Contract)
+                            Systems and Cloud Engineer
 
-
-
-                                July 2021 – Oct 2021       Sunsuper (Contract)
-                                 Systems and Cloud Engineer
 
 •	Working with Exchange hybrid
 •	Azure active directory
@@ -72,8 +79,9 @@ Microsoft Certified Professional
 
 
 
-                                May 2018 – July 2021    Auto and General
-                                                                           Senior System Administrator
+                          May 2018 – July 2021   
+                          Auto and General
+                          Senior System Administrator
 
 •	Working with Operations Team (Agile) for daily management of the Infrastructure
 •	Working with VMware vSphere (6.5) in Multiple Data centres
@@ -85,8 +93,9 @@ Microsoft Certified Professional
 •	Working with SolarWinds for application monitoring and server patch management
 
 
-                               Nov 2017 May 2018     Honeywell Limited
-                                                                        Senior ICT Systems Engineer
+                        Nov 2017 May 2018     
+                        Honeywell Limited
+                        Senior ICT Systems Engineer
 
 •	Planning and implementation of VMware Foe Management of Company Core   
 •	application
@@ -96,8 +105,9 @@ Microsoft Certified Professional
 
 
 
-                               Nov 2014 –June 2017  Departments of Agriculture Fisheries and (Contract)
-                                                                       Windows, VMware and Storage Administrator
+                       Nov 2014 –June 2017  
+                       Departments of Agriculture Fisheries and (Contract)
+                       Windows, VMware and Storage Administrator
                  
 •	Performance monitoring and analysis with VMware Operations Manager (Vrops)
 •	Create a new storage space, creation of VMFS data store,
@@ -111,14 +121,18 @@ Microsoft Certified Professional
 •	Management integrated esxi 6.0 servers in multiple Datacentres
                              
 
-                               Aug 2010 – Aug 2015    Indue Financial Services
-                                                                       Windows Systems Engineer
+                        Aug 2010 – Aug 2015    
+                        Indue Financial Services
+                        Windows Systems Engineer
 
 •	Managing and configuring the Cisco IP Telephone Infrastructure and working with Call Manager and the Cisco Unified communications environments
 •	Working with, and configuring Checkpoint firewall, Cisco Routers and Layer3 Switches for company Network Management
 •	Implementing Exchange 2010 server Environment and migration of exchange 2003 to new environment
-                                Aug 2008 – July 2010    IBS Infotech
-                                                                        Network Engineer   
+
+                        Aug 2008 – July 2010    
+                        IBS Infotech
+                        Network Engineer   
+
 •	Projects managements and implementation of solutions for new and existing client networks which includes Installation and administration of Customer Networks (Rollouts and upgrade)
 •	Working with various technology in accordance with customers’ infrastructure and proposed a continuous ways of improvement to infrastructure and services
 •	Working with different in house application and dealing with 3rd party vendors for services 
