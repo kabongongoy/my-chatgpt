@@ -10,3 +10,5 @@ The pub_chatgpt.py script was created as a test of public chatgpt
 The python script use your input to search public GPT and does its thing
 exanple usage  python pub_chatgpt.py "python script to install wordpress on ec2 instance"
 The result is the wordpress.py attched to this repo
+Notes:  You will need to update your API Key from OpenAI in the constants.py
+        You will also need to import all python required modules
